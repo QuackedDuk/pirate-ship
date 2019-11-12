@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Pirate Ship Game
 
 You can use the [editor on GitHub](https://github.com/QuackedDuk/pirate-ship/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
